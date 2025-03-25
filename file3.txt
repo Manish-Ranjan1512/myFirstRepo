@@ -1,2 +1,3 @@
 This is file3.txt
 new line added in github repo
+new line added in github repo to tets squash
